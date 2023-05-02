@@ -1,0 +1,12 @@
+.NaoEncontrado{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NaoEncontrado p{
+    font-size: 20px;
+    font-weight: 500px;
+    margin-left: 25px;
+}
